@@ -6,4 +6,5 @@ end
 def toadstool
   puts status
 end
-def phrase("it")
+def phrase("It's-a me, Mario!")
+end
